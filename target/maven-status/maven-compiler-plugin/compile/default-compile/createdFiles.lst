@@ -1,0 +1,4 @@
+io/nebulas/apitest/ApiTestBootstrap.class
+io/nebulas/apitest/BalanceControllerTest.class
+io/nebulas/apitest/MyApplicationRunner.class
+io/nebulas/apitest/ApiTestSuite.class

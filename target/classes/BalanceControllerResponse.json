@@ -1,0 +1,19 @@
+{
+  "code": 0,
+  "data": {
+    "currencyList": [
+      {
+        "address": "n1QSSK9VnUVvDXD9Fc6xBK1HiunRYaagJhw",
+        "balanceValue": "0",
+        "platform": "nebulas",
+        "currencies": []
+      }
+    ],
+    "accountFloat": {
+      "offsetTime": "1",
+      "floatInfo": "0.00%"
+    },
+    "totalBalanceValue": 0
+  },
+  "msg": "success"
+}
